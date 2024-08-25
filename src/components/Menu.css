@@ -1,5 +1,5 @@
 .menu-wrapper {
-  background-color: #444;
+  background-color: #333;
   padding: 0px;
   width:90%;
   animation: slideDown 0.8s;
@@ -44,7 +44,7 @@
 
 
 .menu-items {
-  background-color:#444;
+  background-color:#333;
   width: 60%;
   display: flex;
   justify-content: space-around;

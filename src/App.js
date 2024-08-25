@@ -169,9 +169,9 @@ const App = () => {
         <div className="food-details">
           <div className="food-header">
             <h2>Beef Stack</h2>
-            <p className="food-price">$10</p>
+            <h3>10$</h3>
+            <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been the industry's standard dummy text ever since the 1500s.</p>
           </div>
-          <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been the industry's standard dummy text ever since the 1500s.</p>
           <button className="add-button" onClick={() => handleOpenModal({ name: 'Beef Stack', price: '$10' })}>
             Add
           </button>
